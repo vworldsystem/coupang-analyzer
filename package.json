@@ -1,0 +1,13 @@
+{
+  "name": "coupang-keyword-analyzer",
+  "version": "1.0.0",
+  "description": "쿠팡파트너스 황금키워드 분석기",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["coupang", "keyword", "analyzer", "blog"],
+  "author": "Your Name",
+  "license": "MIT"
+}
